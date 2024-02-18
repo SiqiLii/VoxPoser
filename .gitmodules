@@ -1,0 +1,3 @@
+[submodule "src/envs/panda-gym"]
+	path = src/envs/panda-gym
+	url = https://github.com/SiqiLii/panda-gym.git
